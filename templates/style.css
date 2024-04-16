@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#wordle-game {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+#guess-input {
+    margin-bottom: 20px;
+}
+
+#guess {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#feedback {
+    font-weight: bold;
+}

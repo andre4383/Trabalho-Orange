@@ -1,0 +1,22 @@
+INSERT INTO coletaveis(estacao, nome, encontrado, descricao) 
+VALUES 
+    ('Primavera', 'Dente-de-Leão', 'Em toda vila Pelicanos', 'Não é a flor mais bonita, mas as folhas dão uma ótima salada.'),
+    ('Primavera', 'Raiz-forte', 'Vila Pelicanos', 'Uma raiz picante encontrada na primavera.'),
+    ('Primavera', 'Narciso', 'Vila Pelicanos', 'Uma tradicional flor da primavera. Dá um ótimo presente.'),
+    ('Primavera', 'Alho-poró', 'Vila Pelicanos', 'Um delicioso parente da cebola.'),
+    ('Primavera', 'Cebolinha', 'Floresta Cinzaseiva', 'Cresce muito durante a primavera.'),
+    ('Primavera', 'Amora-silvestre', 'Arbustos de toda a vila', 'Uma cereja de primavera com o sabor da floresta.'),
+    ('Verão', 'Café de jardim', 'Vila Pelicanos', 'Possui um cheiro bem forte.'),
+    ('Verão', 'Uva', 'Vila Pelicanos', 'Um doce cacho de uvas.'),
+    ('Verão', 'Ervilha-de-cheiro', 'Vila Pelicanos', 'Uma fragrante flor de verão.'),
+    ('Verão', 'Broto de samambaia', 'Bosque Secreto', 'Os brotinhos são uma especiaria deliciosa.'),
+    ('Outono', 'Ameixa selvagem', 'Vila Pelicanos', 'Ácida e suculenta, com um expressivo aroma.'),
+    ('Outono', 'Avelã', 'Vila Pelicanos', 'Que avelã grande!'),
+    ('Outono', 'Amora', 'Arbustos de toda a vila', 'Uma delícia do começo do outono.'),
+    ('Outono', 'Cantarelo', 'Bosque Secreto', 'Um cogumelo delicioso com um cheiro de frutas e um sabor ligeiramente apimentado.'),
+    ('Outono', 'Cogumelo comum', 'Vila Pelicanos e Bosque Secreto', 'Com ligeiro sabor de nozes e boa textura.'),
+    ('Inverno', 'Raiz de inverno', 'Vila Pelicanos e ao arar a terra', 'Um tubérculo rico em amido.'),
+    ('Inverno', 'Fruta de cristal', 'Vila Pelicanos', 'Uma fruta delicada que surge da neve.'),
+    ('Inverno', 'Inhame de neve', 'Vila Pelicanos e ao arar a terra', 'Este pequeno inhame estava se escondendo na neve.'),
+    ('Inverno', 'Flor de açafrão', 'Vila Pelicanos', 'Uma flor que pode desabrochar no inverno.'),
+    ('Inverno', 'Azevinho', 'Vila Pelicanos e Bosque Secreto', 'As folhas e sementes vermelhas brilhantes são uma decoração de inverno popular.');
